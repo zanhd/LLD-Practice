@@ -23,8 +23,7 @@ public class IdleState implements State {
     }
 
     public void terminateTransaction() {
-        System.out.println("Terminating Transaction ...");
-
+        System.out.println("Please Insert Money :(");
     }
 
     public void completeRefund() {

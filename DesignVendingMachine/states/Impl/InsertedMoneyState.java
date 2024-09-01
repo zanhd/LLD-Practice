@@ -26,7 +26,9 @@ public class InsertedMoneyState implements State {
     }
 
     public void terminateTransaction() {
-
+        vendingMachine.setState(new RefundState(vendingMachine, money));
+        vendingMachine.getState().completeRefund();
+        System.err.println("Terminated Transaction !!!");
     }
 
     public void completeRefund() {

@@ -23,6 +23,12 @@ class Main {
         vendingMachine.selectProduct(2);
         vendingMachine.dispenseProduct();
 
+
+        vendingMachine.insertMoney(500);
+        vendingMachine.selectProduct(3);
+        vendingMachine.terminateTransaction();
+        vendingMachine.dispenseProduct();
+
         System.out.println("VendingMachine : STOPED");
     }
 }
