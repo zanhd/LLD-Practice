@@ -15,3 +15,8 @@
 # Decorator-Pattern : ApplyCoupons
 
 <img width="1380" alt="UML  ApplyCoupons - DecoratorPattern" src="https://github.com/user-attachments/assets/cdaf382f-d80f-4f10-8d03-b889801fb9cc">
+
+# Chain-of-Responsibility-Pattern : Logger
+
+
+<img width="1332" alt="UML  Logger - Chain of Responsibility" src="https://github.com/user-attachments/assets/79e57823-a772-4b27-9da7-e692d39ecb4b">
