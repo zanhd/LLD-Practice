@@ -1,0 +1,69 @@
+# IDE-specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ IDEA Workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
+
+# IDE-specific cache files
+.idea/modules.xml
+.idea/.name
+.idea/misc.xml
+
+# Logs and databases
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.ids/
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/remote-*.xml
+
+# Editor-specific files
+*.swp
+*~
+.idea/vcs.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Output folders
+out/
+target/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.swp
+*.swo
+
+# Other
+*.stackdump
+*.pid
+
+# Exclude additional files/folders as needed
