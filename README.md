@@ -8,3 +8,7 @@
 
 ![UML  VendingMachine](https://github.com/user-attachments/assets/44a1bb0d-00fc-4f3c-a1bb-f5c17f4c0138)
 
+# Observer-Pattern : NotifyMe
+
+![UML  NotifyMe-ObserverPattern](https://github.com/user-attachments/assets/cb4452e2-6757-4e03-824f-4bbe4b42ce3b)
+
