@@ -12,3 +12,6 @@
 
 ![UML  NotifyMe-ObserverPattern](https://github.com/user-attachments/assets/cb4452e2-6757-4e03-824f-4bbe4b42ce3b)
 
+# Decorator-Pattern : ApplyCoupons
+
+<img width="1380" alt="UML  ApplyCoupons - DecoratorPattern" src="https://github.com/user-attachments/assets/cdaf382f-d80f-4f10-8d03-b889801fb9cc">
