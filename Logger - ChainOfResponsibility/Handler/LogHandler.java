@@ -1,6 +1,5 @@
 package Handler;
 public abstract class LogHandler {
-    Level level;
     LogHandler nextHandler;
 
     public LogHandler(LogHandler nextHandler) {
