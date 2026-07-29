@@ -16,6 +16,6 @@ public class Board {
                 cells[i][j] = new Cell();
             }
         }
-        jumpAllocationStrategies = List.of(new SnakeAllocationStrategy(snake), new LadderAllocationStrategy(ladder));
+        jumpAllocationStrategies = List.of(new SnakeAllocationStrategy(this, snake), new LadderAllocationStrategy(this, ladder));
     }
 }
